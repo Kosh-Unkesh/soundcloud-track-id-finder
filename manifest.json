@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "SoundCloud Track ID Finder",
+    "version": "0.1.0",
+    "description": "SoundCloudの楽曲のトラックIDを取得できます。",
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
